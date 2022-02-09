@@ -1,2 +1,8 @@
+# Ficheros de Intellij
 .idea
 *.iml
+# Ficheros de Eclipse
+.settings
+# Ficheros generados por maven
+
+target
